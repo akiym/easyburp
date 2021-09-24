@@ -1,0 +1,4 @@
+*.pyc
+*$py
+*$py.class
+.jython_cache
